@@ -138,4 +138,4 @@ To view the Entity-Relationship Diagram (ERD) and database mapping used for this
 
 ## Video Walkthrough
 
-- [Click here to view the video walkthrough](https://)
+- [Click here to view the video walkthrough](https://drive.google.com/file/d/1XDVQH1UtwYs-FRX58FdgYCoEnE8Xd-U4/view?usp=sharing)
